@@ -1,13 +1,17 @@
 # VRC_BroomSystem
 
 ## 初期設定
-1.以下のインストールを行うこと
+初期設定として以下のインストールを行います
 
-+ VRCSDK3-WORLD-2021.03.22.18.27_Public.unitypackage
-+ UdonSharp_v0.19.8.unitypackage
++ VRCSDK3-WORLD
+    + https://vrchat.com/home/download
++ UdonSharp
+    + https://github.com/MerlinVR/UdonSharp/releases
 
 ## 開発環境設定
-1.以下のインストールを推奨します
+開発時は以下のインストールを推奨します
 
 + CyanLaser/CyanEmu
     + https://github.com/CyanLaser/CyanEmu/releases
+
+## リリースファイル
