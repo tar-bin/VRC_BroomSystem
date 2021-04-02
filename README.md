@@ -16,4 +16,11 @@
 + VRChat (Udon) Third Person Camera
     + https://booth.pm/ja/items/1932757
 
-## リリースファイル
+## リリース
+
++ https://github.com/tar-bin/VRC_BroomSystem/releases
+
+## 導入方法
+
+1. BroomSystem-v0.0.1.unitypackage をインストールする
+2. BroomSystem/BroomSystem.prefab を Hierarchy に配置する
