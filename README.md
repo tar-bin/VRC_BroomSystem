@@ -13,5 +13,7 @@
 
 + CyanLaser/CyanEmu
     + https://github.com/CyanLaser/CyanEmu/releases
++ VRChat (Udon) Third Person Camera
+    + https://booth.pm/ja/items/1932757
 
 ## リリースファイル
