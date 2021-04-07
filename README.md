@@ -24,3 +24,8 @@
 
 1. BroomSystem-v0.0.1.unitypackage をインストールする
 2. BroomSystem/BroomSystem.prefab を Hierarchy に配置する
+
+## その他
+### モデル提供
+
++ 箒 [@CaptainAyakashi](https://twitter.com/captainayakashi)
